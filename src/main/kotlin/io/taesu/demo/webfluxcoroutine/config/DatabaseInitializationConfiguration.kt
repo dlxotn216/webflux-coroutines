@@ -4,7 +4,7 @@
  * Copyright ⓒ 2021. CRScube Co., Ltd. All Rights Reserved| Confidential)
  */
 
-package io.taesu.demo.webfluxcoroutine
+package io.taesu.demo.webfluxcoroutine.config
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.context.annotation.Configuration
